@@ -56,6 +56,4 @@ I have also worked with **C/C++** on embedded systems:
 
 <img alt="GitHub metrics" src="./github-metrics.svg" />
 
-<img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrgadotti&theme=dark&hide_border=true" />
-
 </div>
