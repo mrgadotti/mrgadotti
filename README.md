@@ -54,8 +54,7 @@ I have also worked with **C/C++** on embedded systems:
 
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrgadotti&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" alt="Top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrgadotti&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+<img alt="GitHub metrics" src="./github-metrics.svg" />
 
 <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrgadotti&theme=dark&hide_border=true" />
 
