@@ -49,9 +49,3 @@ I have also worked with **C/C++** on embedded systems:
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<div align="center">
-
-<img alt="GitHub metrics" src="./github-metrics.svg" />
-
-</div>
