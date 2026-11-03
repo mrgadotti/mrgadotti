@@ -50,8 +50,6 @@ I have also worked with **C/C++** on embedded systems:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub stats
-
 <div align="center">
 
 <img alt="GitHub metrics" src="./github-metrics.svg" />
