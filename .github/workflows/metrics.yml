@@ -28,7 +28,7 @@ jobs:
           filename: github-metrics.svg
           output_action: commit
           committer_branch: main
-          commit_message: "chore: update GitHub metrics [skip ci]"
+          committer_message: "chore: update GitHub metrics [skip ci]"
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           config_display: regular
@@ -40,5 +40,3 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_indepth: false
           plugin_languages_analysis_timeout: 15
-          plugin_streak: yes
-          plugin_streak_days: 365
